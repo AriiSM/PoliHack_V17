@@ -161,3 +161,10 @@ To enable AI functionality in **Shifty**, you need to run a local LLM API using 
 
     Shifty will now be able to connect and interact with the local model using this endpoint.
 
+---
+
+## Demo Video
+
+Watch a full demo of the Gene Explorer application in action:
+
+[![Watch the demo](https://youtu.be/LF4Od1_xNJ0?si=EfsfbodVwinB-98P)](https://youtu.be/LF4Od1_xNJ0?si=EfsfbodVwinB-98P)
